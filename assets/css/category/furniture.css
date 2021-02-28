@@ -1,0 +1,108 @@
+/*==================================
+Theme Color All Codes Variable
+==================================*/
+:root {
+	 --theme-general-color: #63676d;  /* theme general font color */
+}
+:root {
+	 --theme-primary-color: #eed153;  /* theme primary color */
+}
+:root {
+	 --theme-secondary-color: #9a8853;  /* theme secondary color */
+}
+:root {
+	 --theme-white-color: #fff;  /* theme white font color */
+}
+:root {
+	 --theme-light-color: #f6f7f7;  /* theme light gray color */
+}
+:root {
+	 --theme-gray-color: #eceeef;  /* theme gray color */
+}
+:root {
+	 --theme-footer-color: #212224;  /* theme dark color ok */
+}
+:root {
+	 --theme-dark-color: #181a1d;  /* theme dark color ok */
+}
+:root {
+	 --theme-extra-color: #e3eff9;  /* theme extra color */
+}
+:root {
+	 --text-light-color: #a5a5a5;  /* Light text color to use in dark area */
+}
+:root {
+	 --theme-primary-opacity-color: rgba(238, 209, 83, .8);  /* theme secondary color */
+}
+:root {
+	 --theme-secondary-opacity-color: rgba(154, 136, 83, .6);  /* theme secondary color */
+}
+:root {
+	 --theme-dark-opacity-color: rgba(16, 37, 102, .7);  /* theme Dark color */
+}
+:root {
+	 --theme-white-opacity-color: rgba(255, 255, 255, 0.5);  /* theme light color */
+}
+:root {
+	 --theme-border-color: #eeeff3; /* theme border color */
+}
+
+/*==================================
+Font Variable
+==================================*/
+:root {
+	 --theme-general-font: 'Roboto', sans-serif; /* Font use for normal text and general text */
+}
+:root {
+	 --theme-hiperlink-font: 'Montserrat', sans-serif; /* Font use for normal text and general text */
+}
+:root {
+	 --theme-highlight-font: 'Montserrat', sans-serif;  /* Font used in title or special area */
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+	font-size: 15px;
+	font-weight: 500
+}
+.top-header {
+    font-size: 14px;
+}
+body {
+	font-size: 15px
+}
+.sub-title {
+	font-size: 18px
+}
+.btn-link,
+.btn {
+	font-weight: 500;
+	font-size: 15px;
+	border-radius: 3px
+}
+.rounded-lg {
+	border-radius: 20px !important
+}
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6,
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+.h1 a, .h2 a, .h3 a, .h4 a, .h5 a, .h6 a,
+.footer-widget li a {
+	color: var(--theme-dark-color);
+}
+.time-count li span{
+	color: var(--theme-dark-color);
+	font-weight: 500;
+	font-size: 13px;
+	width: 45px;
+	height: 45px;
+	line-height: 45px;
+	border-radius: 100%;
+	background-color: var(--theme-primary-color);
+	display: block
+}
+.divider-col-3 > div {
+	border-color: #eaeff5
+}
+.woocommerce-product .product-img {
+	background-color: #fff
+}

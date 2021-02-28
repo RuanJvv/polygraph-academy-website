@@ -1,0 +1,66 @@
+/*==================================
+Theme Color All Codes Variable
+==================================*/
+:root {
+	 --theme-general-color: #7a7a7a;  /* theme general font color */
+}
+:root {
+	 --theme-primary-color: #0bb787;  /* theme primary color */
+}
+:root {
+	 --theme-secondary-color: #0a2266;  /* theme secondary color */
+}
+:root {
+	 --theme-white-color: #fff;  /* theme white font color */
+}
+:root {
+	 --theme-light-color: #f8f8f8;  /* theme light gray color */
+}
+:root {
+	 --theme-gray-color: #eceef2;  /* theme gray color */
+}
+:root {
+	 --theme-footer-color: #091b4b;  /* theme dark color ok*/
+}
+:root {
+	 --theme-dark-color: #091b4b;  /* theme dark color ok*/
+}
+:root {
+	 --text-light-color: #a3a7af;  /* Light text color to use in dark area */
+}
+:root {
+	 --theme-primary-opacity-color: rgba(11, 191, 141, .8);  /* theme secondary color */
+}
+:root {
+	 --theme-secondary-opacity-color: rgba(10, 34, 102, .8);  /* theme secondary color */
+}
+:root {
+	 --theme-white-opacity-color: rgba(255, 255, 255, 0.3);  /* theme light color */
+}
+
+/*==================================
+Font Variable
+==================================*/
+:root {
+	 --theme-general-font: 'Roboto', sans-serif; /* Font use for normal text and general text */
+}
+:root {
+	 --theme-hiperlink-font: 'Roboto', sans-serif; /* Font use for normal text and general text */
+}
+:root {
+	 --theme-highlight-font: 'Russo One', sans-serif;  /* Font used in title or special area */
+}
+
+.btn, .form-control {
+	border-radius: 3px
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+	font-weight: inherit
+}
+.copyright {
+	border-top: 1px solid #172752
+}
+
+

@@ -1,0 +1,47 @@
+/*==================================
+Theme Color All Codes Variable
+==================================*/
+:root {
+	 --theme-general-color: #818181;  /* theme gray color */
+}
+:root {
+	 --theme-primary-color: #1a4ccd;  /* theme primary color */
+}
+:root {
+	 --theme-secondary-color: #202430;  /* theme secondary color */
+}
+:root {
+	 --theme-white-color: #fff;  /* theme white font color */
+}
+:root {
+	 --theme-light-color: #f8f9fa;  /* theme light gray color */
+}
+:root {
+	 --theme-gray-color: #ececec;  /* theme gray color */
+}
+:root {
+	 --theme-dark-color: #091b4b;  /* theme dark color ok*/
+}
+:root {
+	 --theme-primary-opacity-color: rgba(26, 76, 205, .8);  /* theme secondary color */
+}
+:root {
+	 --theme-secondary-opacity-color: rgba(26, 34, 47, .6);  /* theme secondary color */
+}
+:root {
+	 --theme-white-opacity-color: rgba(255, 255, 255, 0.3);  /* theme light color */
+}
+
+/*==================================
+Font Variable
+==================================*/
+:root {
+	 --theme-general-font: 'Montserrat', sans-serif;  /* Font use for normal text and general text */
+}
+:root {
+	 --theme-highlight-font: 'Montserrat', sans-serif;  /* Font used in title or special area */
+}
+
+
+
+

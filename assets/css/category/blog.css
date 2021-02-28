@@ -1,0 +1,107 @@
+/*==================================
+Theme Color All Codes Variable
+==================================*/
+:root {
+	 --theme-general-color: #6d7175;  /* theme gray color */
+}
+:root {
+	 --theme-primary-color: #0e96f6;  /* theme primary color */
+}
+:root {
+	 --theme-secondary-color: #2f3d4f;  /* theme secondary color */
+}
+:root {
+	 --theme-white-color: #fff;  /* theme white font color */
+}
+:root {
+	 --theme-light-color: #f8f9fa;  /* theme light gray color */
+}
+:root {
+	 --theme-gray-color: #efefef;  /* theme gray color */
+}
+:root {
+	 --theme-text-gray: #c3c3c3; /* theme text gray color */
+}
+:root {
+	 --theme-dark-color: #181a1d;  /* theme dark color ok*/
+}
+:root {
+	 --theme-footer-color: #1e2124;  /* theme dark color ok*/
+}
+:root {
+	 --theme-primary-opacity-color: rgba(14, 150, 246, .8);  /* theme secondary color */
+}
+:root {
+	 --theme-secondary-opacity-color: rgba(37, 40, 43, .8);  /* theme secondary color */
+}
+:root {
+	 --theme-white-opacity-color: rgba(255, 255, 255, 0.8);  /* theme light color */
+}
+:root {
+	 --text-light-color: #a5a5a5;  /* text light color */
+}
+
+/*==================================
+Font Variable
+==================================*/
+:root {
+	 --theme-general-font: 'Roboto', sans-serif; /* Font use for normal text and general text */
+}
+:root {
+	 --theme-hiperlink-font: 'Roboto', sans-serif; /* Font use for normal text and general text */
+}
+:root {
+	 --theme-highlight-font: 'Barlow', sans-serif;  /* Font used in title or special area */
+}
+
+h1, .h1{
+	font-size: 42px;
+}
+h2, .h2{
+	font-size: 34px;
+}
+h3, .h3{
+	font-size: 28px;
+}
+h4, .h4{
+	font-size: 24px;
+}
+h5, .h5 {
+	font-size: 20px;
+}
+h6, .h6 {
+	font-size: 17px;
+}
+
+h1, h2, h3, 
+.h1, .h2, .h3,
+h1 a, h2 a, h3 a,
+.h1 a, .h2 a, .h3 a {
+	font-weight: 700
+}
+
+h4, h5, h6, 
+.h4, .h5, .h6,
+h4 a, h5 a, h6 a, 
+.h4 a, .h5 a, .h6 a {
+	font-weight: 500
+}
+
+.btn {
+	font-weight: 400
+}
+
+.navbar-expand-lg .navbar-nav .nav-link  {
+	font-size: 14px;
+	font-weight: 500;
+}
+
+.btn.btn-large {
+	font-size: 15px
+}
+
+footer {
+	font-size: 14px
+}
+
+

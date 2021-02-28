@@ -1,0 +1,89 @@
+/*==================================
+Theme Color All Codes Variable
+==================================*/
+:root {
+	 --theme-general-color: #8c9093;  /* theme general font color */
+}
+:root {
+	 --theme-primary-color: #fcd846;  /* theme primary color ok*/
+}
+:root {
+	 --theme-secondary-color: #141b25;  /* theme secondary color ok*/
+}
+:root {
+	 --theme-white-color: #fff;  /* theme white font color ok*/
+}
+:root {
+	 --theme-light-color: #f3f3f3;  /* theme light gray color ok*/
+	 }
+:root {
+	 --theme-gray-color: #ececec;  /* theme gray color */
+}
+:root {
+	 --theme-footer-color: #0d131c;  /* theme dark color ok*/
+}
+:root {
+	 --theme-dark-color: #090e15;  /* theme dark color ok*/
+}
+:root {
+	 --theme-primary-opacity-color: rgba(225, 175, 21, .8);  /* theme secondary color ok*/
+}
+:root {
+	 --theme-secondary-opacity-color: rgba(20, 27, 37, .8);  /* theme secondary color ok*/
+}
+:root {
+	 --theme-white-opacity-color: rgba(255, 255, 255, 0.3);  /* theme light color ok*/
+}
+
+/*==================================
+Font Variable
+==================================*/
+:root {
+	 --theme-general-font: 'Montserrat', sans-serif;  /* Font use for normal text and general text ok*/
+}
+:root {
+	 --theme-highlight-font: 'Titillium Web', sans-serif;  /* Font used in title or special area ok*/
+}
+h1,
+.h1{
+	font-size: 45px;
+	font-weight: 900
+}
+h2,
+.h2{
+	font-size: 38px;
+	font-weight: 900
+}
+h3,
+.h3{
+	font-size: 30px;
+	font-weight: 900
+}
+h4,
+.h4{
+	font-size: 24px;
+	font-weight: 900
+}
+h5,
+.h5{
+	font-size: 20px;
+	font-weight: 900
+}
+.h6{
+	font-size: 16px;
+	font-weight: 700
+}
+.btn-link{
+	font-weight: 500
+}
+
+.navbar-brand{
+	padding: 0
+}
+.down-line::before {
+	width: 50px
+}
+.btn-primary, .btn-primary:hover {
+	color: var(--theme-secondary-color);
+}
+
